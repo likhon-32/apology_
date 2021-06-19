@@ -1,0 +1,132 @@
+body{background-color: #F6E6EB}
+
+.salam{
+	width: 60%;
+	margin: auto;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #F7B377;
+}
+.salam-a{
+	color: #55514D;
+	font-size: 15px;
+	text-align: center;
+	padding: 5px;
+	background-color: #F0C2D5;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+.powr{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #55514D;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 30px;
+	
+}
+
+.image{
+	width: 200px;
+	height: 200%;
+	margin: auto;
+}
+
+
+img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    border-radius: 3px 3px;
+}
+
+.name{
+	width: 70%;
+	margin: auto;
+	font-size: 4.5px;
+	text-align: center;
+	color: #00007C;
+}
+.name-a{
+	margin-bottom: 0px;
+}
+h3{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #55514D;
+	font-size: 10px;
+	margin-top: 0px;
+}
+.section-abt{
+	border-bottom: 1px solid #0054D2;
+	margin-top: 30px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.abt-a{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #55514D;
+	border-bottom: 2px solid #0054D2;
+}
+.she{
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+.she-a{
+	color: #55514D;
+	font-size: 10px;
+}
+.section-skill{
+	border-bottom: 1px solid #0054D2;
+	margin-top: 25px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.skill-a{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #55514D;
+	border-bottom: 2px solid #0054D2;
+}
+.skill-b{
+	margin-top: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+li{
+	color: #55514D;
+	font-size: 10px;
+}
+.last{
+	color: #55514D;
+	font-size: 10px;
+	text-align: center;
+	font-family: 'Trebuchet MS', sans-serif;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+footer{
+	background-color: #E7EAEB;
+	height: 60px;
+	margin: 0px;
+	border-top: 2px solid #A7C7E7;
+}
+.foot-a{
+	height: 30px;
+	width: 30px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.imag-a{
+	width: 100%;
+	height: 100%;
+	border-radius: 50% 50%;
+}
+.copy{
+	color: #55514D;
+	font-size: 10px;
+	text-align: center;
+	padding-top: 20px;
+	font-family: 'Trebuchet MS', sans-serif;
+}
